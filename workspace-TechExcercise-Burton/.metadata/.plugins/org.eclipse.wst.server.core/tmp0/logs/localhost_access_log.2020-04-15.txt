@@ -1,0 +1,12 @@
+127.0.0.1 - - [15/Apr/2020:20:28:02 -0500] "GET / HTTP/1.1" 404 705
+0:0:0:0:0:0:0:1 - - [15/Apr/2020:20:28:03 -0500] "GET /TournamentRankings/RankingWebPage.html HTTP/1.1" 200 737
+127.0.0.1 - - [15/Apr/2020:21:52:47 -0500] "GET / HTTP/1.1" 404 705
+0:0:0:0:0:0:0:1 - - [15/Apr/2020:21:52:50 -0500] "GET /TournamentRankings/MyServletRankingApp HTTP/1.1" 200 142
+127.0.0.1 - - [15/Apr/2020:22:03:51 -0500] "GET / HTTP/1.1" 404 705
+0:0:0:0:0:0:0:1 - - [15/Apr/2020:22:03:53 -0500] "GET /TournamentRankings/MyServletRankingApp HTTP/1.1" 200 891
+127.0.0.1 - - [15/Apr/2020:22:09:02 -0500] "GET / HTTP/1.1" 404 705
+127.0.0.1 - - [15/Apr/2020:22:09:30 -0500] "GET / HTTP/1.1" 404 705
+0:0:0:0:0:0:0:1 - - [15/Apr/2020:22:09:33 -0500] "GET /TournamentRankings/MyServletRankingApp HTTP/1.1" 200 749
+127.0.0.1 - - [15/Apr/2020:23:58:07 -0500] "GET / HTTP/1.1" 404 705
+0:0:0:0:0:0:0:1 - - [15/Apr/2020:23:58:10 -0500] "GET /TournamentRankings/MyServletRankingApp HTTP/1.1" 200 792
+0:0:0:0:0:0:0:1 - - [15/Apr/2020:23:58:45 -0500] "GET /TournamentRankings/MyServletRankingApp HTTP/1.1" 200 792

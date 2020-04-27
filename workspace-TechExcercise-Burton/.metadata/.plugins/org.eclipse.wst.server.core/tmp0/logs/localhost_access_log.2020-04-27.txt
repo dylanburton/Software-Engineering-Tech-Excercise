@@ -1,0 +1,2 @@
+127.0.0.1 - - [27/Apr/2020:01:38:26 -0500] "GET / HTTP/1.1" 404 705
+0:0:0:0:0:0:0:1 - - [27/Apr/2020:01:38:27 -0500] "GET /TournamentRankings/RankingWebPage.html HTTP/1.1" 200 878

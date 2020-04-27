@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="ISO-8859-1">
+<title>Rankings</title>
+</head>
+
+<body>
+<h1>Tournament Rankings</h1>
+<h2>Directions</h2>
+<p>Type in Player tag into player field, and then type in wins entered into field. Then Click the Update Player Record button. If a players tag is new, it will be entered in new and the wins will be placed the number of wins entered. If the player already exists it will add the amount entered in wins to the current number in the leaderboard.</p>
+<h2>Insert information</h2>
+<form action= "MyServletRankingApp" method= "get"> 
+
+<input type= "text" placeholder="Enter Player Tag Here" id="player" name="player"/> 
+<input type= "number" step= "1" placeholder="Wins Enter Here" id="wins" name="wins"/>
+<input type = "submit" value="Update Player Record"/>
+</form>
+
+<h2>Current Rankings: </h2>
+</body>
+
+</html>
